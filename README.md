@@ -26,3 +26,13 @@ what i learned:
 advance questions on pattern printing using  nested while loop and conditional statements.
 introduced to bitwise operators.
 use of for loop and solved basic problems using it.
+
+DAY 4(18 may):
+https://www.youtube.com/watch?v=bWrsk0QizEk&list=PPSV&t=29s
+
+what i learned:
+developed understanding of number system.
+learned conversion of base of a number.
+solved basic problems related to number systems online.
+
+
