@@ -35,4 +35,15 @@ developed understanding of number system.
 learned conversion of base of a number.
 solved basic problems related to number systems online.
 
+DAY 5(19 may):
+watched:https://www.youtube.com/watch?v=0fwrMYPcGQ0&list=PLDzeHZWIZsTryvtXdMr6rPh4IDexB5NIA&index=7&pp=iAQB
+https://www.youtube.com/watch?v=8nNqk2NPbRA&list=PLDzeHZWIZsTryvtXdMr6rPh4IDexB5NIA&index=8&pp=iAQB
+
+leetcode problems:7 and 1009
+
+what i learned: 
+started leetcode and introduced to its interface.
+switch statement and its implementation.
+calling a function and its backend working.
+basic functions like prime and factorial.
 
