@@ -47,3 +47,9 @@ switch statement and its implementation.
 calling a function and its backend working.
 basic functions like prime and factorial.
 
+DAY 6(20 may):
+watched:https://youtu.be/sNrLlmOIn-c?si=cv20iTnFw1r_WLNx
+
+leetcode problem:231 
+
+
