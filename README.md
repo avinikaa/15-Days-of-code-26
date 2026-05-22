@@ -52,4 +52,13 @@ watched:https://youtu.be/sNrLlmOIn-c?si=cv20iTnFw1r_WLNx
 
 leetcode problem:231 
 
+DAY 7(21 may):
+watched:https://youtu.be/QovOdd80A4s?si=CzthoOquW3z7ElBG
+https://youtu.be/YJeoQBevNVo?si=QK3mNoQLzfS-4_n4
+
+what i learned:
+introduced to the concept of space and time complexity.
+big O  notation and TLE.
+binary search core idea and its code.
+
 
