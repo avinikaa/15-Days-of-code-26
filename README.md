@@ -61,4 +61,12 @@ introduced to the concept of space and time complexity.
 big O  notation and TLE.
 binary search core idea and its code.
 
+DAY 8 (22 may):
+
+what i watched:
+https://www.youtube.com/watch?v=zD2Jg3alZV8&list=PLDzeHZWIZsTryvtXdMr6rPh4IDexB5NIA&index=13&pp=iAQB
+https://www.youtube.com/watch?v=6z2HK4o8qcU&list=PLDzeHZWIZsTryvtXdMr6rPh4IDexB5NIA&index=14&pp=iAQB
+
+
+
 
