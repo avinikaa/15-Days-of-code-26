@@ -76,7 +76,7 @@ what i learned:
 studied binary search more deeply to build a better understanding.
 tried attempting a 2 problems on leetcode. 
 
-leetcode problem: two sum.
+leetcode problem: 1 and 69
 
 
 
