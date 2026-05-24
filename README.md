@@ -67,6 +67,18 @@ what i watched:
 https://www.youtube.com/watch?v=zD2Jg3alZV8&list=PLDzeHZWIZsTryvtXdMr6rPh4IDexB5NIA&index=13&pp=iAQB
 https://www.youtube.com/watch?v=6z2HK4o8qcU&list=PLDzeHZWIZsTryvtXdMr6rPh4IDexB5NIA&index=14&pp=iAQB
 
+what i learned:
+problems based on binary search
+
+DAY 9 (23 may):
+
+what i learned:
+studied binary search more deeply to build a better understanding.
+tried attempting a 2 problems on leetcode. 
+
+leetcode problem: two sum.
+
+
 
 
 
