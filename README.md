@@ -78,6 +78,18 @@ tried attempting a 2 problems on leetcode.
 
 leetcode problem: 1 and 69
 
+DAY 10 (24 may):
+
+leetcode: 217
+
+what i learned:
+introduced to set. 
+its basic functioning and syntax.
+types of set: set,unordered,multiset.
+elements like: set.insert(),set.erase(),set.count().
+
+
+
 
 
 
