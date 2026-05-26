@@ -88,6 +88,14 @@ its basic functioning and syntax.
 types of set: set,unordered,multiset.
 elements like: set.insert(),set.erase(),set.count().
 
+DAY 11 (25 may):
+
+leetcode : 9 and 26
+
+DAY 12 (26 may):
+
+leetcode: 27 and 35
+
 
 
 
