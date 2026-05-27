@@ -80,7 +80,7 @@ leetcode problem: 1 and 69
 
 DAY 10 (24 may):
 
-leetcode: 217
+leetcode problem: 217
 
 what i learned:
 introduced to set. 
@@ -90,11 +90,24 @@ elements like: set.insert(),set.erase(),set.count().
 
 DAY 11 (25 may):
 
-leetcode : 9 and 26
+leetcode problems: 9 and 26
 
 DAY 12 (26 may):
 
-leetcode: 27 and 35
+leetcode problems: 27 and 35
+
+DAY 13 (27 may):
+
+leetcode problem:88
+
+what i watched:
+https://youtu.be/UdO2NeHB46c?si=RKb2p1M4gNIPmN7J
+https://youtu.be/zOhUavxlzw4?si=eu7UH2UDbejF_pdU
+
+what i learned:
+introduction to sorting and its techniques.
+bubble sort:basic idea and its implementation.
+selection sort: key idea and implementation.
 
 
 
