@@ -109,6 +109,14 @@ introduction to sorting and its techniques.
 bubble sort:basic idea and its implementation.
 selection sort: key idea and implementation.
 
+DAY 14 (28 may):
+
+what i watched:
+https://youtu.be/7kIVfVY6Axk?si=usb7Ic39EAie1wG-
+
+what i learnt:
+insertion sort: basic idea and implementation.
+
 
 
 
