@@ -117,7 +117,16 @@ https://youtu.be/7kIVfVY6Axk?si=usb7Ic39EAie1wG-
 what i learnt:
 insertion sort: basic idea and implementation.
 
+DAY 15 (29 may):
 
+what i watched:https://youtu.be/WgMPrLX-zsA?si=ItnTuTgvaxEWKvNs
+
+what i learned:
+array: size(),at(),front(),back()
+vector: introduction and push_back().
+deque: push_back() push_front()
+also list,stack,queue(priority),map
+Basic STL algorithm.
 
 
 
