@@ -126,7 +126,31 @@ array: size(),at(),front(),back()
 vector: introduction and push_back().
 deque: push_back() push_front()
 also list,stack,queue(priority),map
-Basic STL algorithm.
+Basic STL algorithms.
+
+DAY 1 (15 june):
+
+leetcode problems: 1295,485,1920,1480.
+what i watched: 
+
+
+DAY 2 (16 jume):
+
+leetcode problems: 567 and 1047
+
+what i learned:
+string and its functioning 
+basic application to solve problems.
+
+DAY 3 (17 june):
+
+leetcode problems: 383,349,242.
+
+what i learned:
+what is anagram.
+to make frequency set of alphabets for strings 
+
+
 
 
 
