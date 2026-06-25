@@ -150,7 +150,15 @@ what i learned:
 what is anagram.
 to make frequency set of alphabets for strings 
 
+DAY 4 (18 june):
 
+what i watched: https://youtu.be/Wdjr6uoZ0e0?si=Bq7ng_bu2qIPUnDy
+
+DAY 5(19 june):
+
+what i watched:https://youtu.be/1CdolnvxLs0?si=jgLhZNP0g7Ie_f6-
+
+DAY 6 (20 june):
 
 
 
