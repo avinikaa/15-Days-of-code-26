@@ -159,6 +159,53 @@ DAY 5(19 june):
 what i watched:https://youtu.be/1CdolnvxLs0?si=jgLhZNP0g7Ie_f6-
 
 DAY 6 (20 june):
+leetcode problems: 2965,1572,1470
+
+what i learned: problems on 2D array.
+
+DAY 7 (21 june):
+
+leetcode problems:74 and 566.
+
+DAY 8 (22 june):
+
+what i watched: https://youtu.be/KdePjukNs98?si=SHHkSyGKjwyQhOX2
+
+leetcode: 204,724,977.
+
+DAY 9 (23 june):
+
+leetcode problems:54,59
+
+what i learned: how to deal with spiral matrix.
+
+DAY 10 (24 june):
+
+leetcode problems:73,59,661
+
+DAY 11 (25 june):
+
+what i watched: https://youtu.be/YHwEIfrXZgE?si=qm3YDNjt2_n2Xcfx
+
+what i learned: introduction to pointers and its requirement in arrays and functions.
+
+DAY 12 (26 june):
+
+what i watched: https://youtu.be/rlpw7oi-bpE?si=3SqK9-hHvdI1mqIA
+
+leetcode:414,448.
+
+DAY 13 (27 june):
+
+what i watched: https://youtu.be/P0UsAxtXq2Y?si=AgGs7dhSrVBxaM00
+
+leetcode problems: 605,989,121.
+
+DAY 14 (28 june):
+
+
+
+
 
 
 
