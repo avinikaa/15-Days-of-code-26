@@ -203,7 +203,11 @@ leetcode problems: 605,989,121.
 
 DAY 14 (28 june):
 
+leetcode:557,75,238,169
 
+DAY 15 (29 june):
+
+leetcode:504,507,228.
 
 
 
